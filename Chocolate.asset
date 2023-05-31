@@ -9,10 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ae9469df76b79dd49a1be4373b6a143f, type: 3}
+  m_Script: {fileID: 11500000, guid: 41c0190f7978b7643a4ca62fad25d5bf, type: 3}
   m_Name: Chocolate
   m_EditorClassIdentifier: 
   itemName: Chocolate
-  description: A delicious treat!
   itemIcon: {fileID: 21300000, guid: 3011d3342692e5a468e5785261a52a7a, type: 3}
-  itemPrice: 3
+  itemPrice: 0
+  isStackable: 1
+  foodtype: 0
+  health_added: 0
